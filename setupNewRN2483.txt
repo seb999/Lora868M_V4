@@ -1,0 +1,11 @@
+      //remove after debug used to setup the device
+//        LORA_RESET_SetLow();
+//        __delay_ms(200);
+//        LORA_RESET_SetHigh();
+//        __delay_ms(200);
+//        SendUartCmd("mac set appeui 70B3D57ED0007651\r\n"); 
+//        ReadUartCmd(lora);
+//        SendUartCmd("mac set appkey 9FA338A47B91F3690A48DAFEC7CEF807\r\n"); 
+//        ReadUartCmd(lora);
+//        SendUartCmd("mac save\r\n"); 
+//        ReadUartCmd(lora);
